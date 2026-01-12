@@ -2,7 +2,7 @@
 
 # 🤖 Perception Subsystem Report
 
-This document details the computer vision pipeline developed for the UMIC recruitment task. It covers the iterative problem-solving process for **Cone Detection** and the current development status of **Mallet Detection**.
+This document details the computer vision pipeline developed for the MRT Assignment 4. It covers the iterative problem-solving process for **Cone Detection** and the current development status of **Mallet Detection**.
 
 ---
 
